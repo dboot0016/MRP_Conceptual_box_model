@@ -1,0 +1,5 @@
+There are four different folders. 
+1. The first folder contains Matlab scripts used to analyse the CESM data, which is available upon requisition. 
+2. The second folder contains data. These include: (1) freshwater and heat fluxes used to force the model; (2) Results for the runs including noise (both cases MKL and PFB); and (3) Results from regular runs. 
+3. The third folder contains all the model scripts written in Matlab. 
+4. The fourth folder contains the scripts to make the figures using the data from folder 2. 
